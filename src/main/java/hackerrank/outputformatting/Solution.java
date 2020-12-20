@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Solution {
 
     public static void main(String[] args) {
+        System.out.println(Integer.toBinaryString(1234));
         Scanner sc=new Scanner(System.in);
         System.out.println("================================");
         for(int i=0;i<3;i++)
