@@ -1,4 +1,4 @@
-package hackerrank.warmupchallenges.arrays.arrays;
+package hackerrank.arrays.arrays;
 
 public class NewYearChaos {
 

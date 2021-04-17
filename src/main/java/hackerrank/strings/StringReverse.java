@@ -1,7 +1,4 @@
-package hackerrank.warmupchallenges.strings;
-
-import java.util.Arrays;
-import java.util.Locale;
+package hackerrank.strings;
 
 public class StringReverse {
 

@@ -1,4 +1,4 @@
-package hackerrank.warmupchallenges.strings;
+package hackerrank.strings;
 
 public class StringTokens {
 

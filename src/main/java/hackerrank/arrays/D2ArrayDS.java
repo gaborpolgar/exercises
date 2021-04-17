@@ -1,4 +1,4 @@
-package hackerrank.warmupchallenges.arrays;
+package hackerrank.arrays;
 
 public class D2ArrayDS {
 

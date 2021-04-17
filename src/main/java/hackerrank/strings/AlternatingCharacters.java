@@ -1,4 +1,4 @@
-package hackerrank.warmupchallenges.strings;
+package hackerrank.strings;
 
 import java.util.Arrays;
 
